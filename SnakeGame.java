@@ -57,6 +57,8 @@ public class SnakeGame extends JPanel implements ActionListener {
         food = new Point(x, y);
     }
 
+
+    // increase the speed of the snake as it eats each fruit 
     private void updateTimerSpeed() {
         int newDelay = Math.max(50, 200 - (snake.size() - 1) * 10);  // Decrease delay as snake grows
         timer.setDelay(newDelay);  // Update timer interval
