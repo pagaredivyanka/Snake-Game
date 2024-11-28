@@ -47,7 +47,7 @@ public class SnakeGame extends JPanel implements ActionListener {
         snake.add(new Point(WIDTH / 2, HEIGHT / 2));  // Snake starts in the center
         spawnFood();
 
-        timer = new Timer(250, this);  // Initial speed: 200ms per update
+        timer = new Timer(200, this);  // Initial speed: 200ms per update
         timer.start();
     }
 
