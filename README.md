@@ -1,5 +1,5 @@
 # Snake-Game
-Java Basic Project
+Java Basic Project - (LinkedList)
 
 ## Key Concepts Used
 
