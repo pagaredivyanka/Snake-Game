@@ -1,13 +1,9 @@
 # Snake-Game
 Java Basic Project
 
-Used Concepts -
+## Key Concepts Used
 
 <img width="548" alt="{F197137E-145C-46AA-B3AF-792C82F6F1C3}" src="https://github.com/user-attachments/assets/35583e0d-d1a0-4e79-baea-f96b421c91cd">
-
-# Snake Game
-
-## Key Concepts Used
 
 ### 1. Object-Oriented Programming (OOP)
 - **Encapsulation**: The game's logic is encapsulated in methods and classes to ensure modularity and clarity.  
