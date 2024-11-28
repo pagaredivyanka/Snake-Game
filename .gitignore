@@ -1,0 +1,5 @@
+# Ignore system and unnecessary directories
+/AppData/
+/Documents/
+/Cookies/
+/Local Settings/
